@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>rocky.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>APIKey</key>
+	<string>eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LmJkMDJlYzkyNTUzYjQzZjg5Mjg4NDI4YjVmYjNmMGUwIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi43NTljZjNjYjljNjA0ODZiODU1YTMyZGFhNGUwOTA1ZCIsImJ1bmRsZVNlZWRJZCI6InJvY2t5LiQoUFJPRFVDVF9OQU1FOnJmYzEwMzRpZGVudGlmaWVyKSIsImJ1bmRsZUlkIjoicm9ja3kuJChQUk9EVUNUX05BTUU6cmZjMTAzNGlkZW50aWZpZXIpIiwiaXNzIjoiQW1hem9uIiwidHlwZSI6IkFQSUtleSIsImFwcFZhcmlhbnRJZCI6ImFtem4xLmFwcGxpY2F0aW9uLWNsaWVudC4xNjBkNjY4MjFhMDE0OTc1OTM5YTAzY2MxNDY2N2FiNSIsInRydXN0UG9vbCI6bnVsbCwiYXBwSWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1jbGllbnQuMTYwZDY2ODIxYTAxNDk3NTkzOWEwM2NjMTQ2NjdhYjUiLCJpZCI6IjgzNmEwZmJiLTNkMWQtMTFlNS05ZmJmLWNmMGJiZDIyNDZmNiIsImlhdCI6IjE0Mzg5NjMyNjczMDUifQ==.ot1HUj/u7zmAMHCF4dEt+4SNktLyZIhs+m3+IowGf4aCmRkm1i9oo4JlYwiu1wL5C2aXVWUgeMCdeKCZEnItealGZhYsCq+3pg1Smcx9KrIZrCeI7OK0ZtazNtwwLTJM0wb/0ii18HZYXlEladtcs1fzL7x+fq1OdFKY3odTaLo0A/XFpLXV6ovodCFcoxm15A4MclZ6dUmglZAx2h3CklyOKbbY60bDhhAPIIettVWRta6Yt9JD3hddtKtefqxlu7N+V5UJytcwpROlHDLqrr1yf1//dOFNleEmELZSpBnIqQAk0+Oe9PYuSGgchR6PCv7/GNh1rpJf26BWNducBA==</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>amzn-rocky.$(PRODUCT_NAME:rfc1034identifier)</string>
+			</array>
+			<key>CFBundleURLName</key>
+			<string>rocky.$(PRODUCT_NAME:rfc1034identifier)</string>
+		</dict>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
